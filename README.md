@@ -6,7 +6,7 @@
 
 **autoexec.cfg** > `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
-### Counter-Strike: Global Offensive [/h1z1/](https://github.com/cjLGH/game-settings/tree/master/h1z1)
+### H1Z1: King of the Kill [/h1z1/](https://github.com/cjLGH/game-settings/tree/master/h1z1)
 #### Launch Options
 	none
 
