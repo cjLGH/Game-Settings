@@ -10,4 +10,4 @@
 #### Launch Options
 	none
 
-**...** > `...\Steam\steamapps\common\...`
+**UserOptions.ini** > `...\Steam\steamapps\common\H1Z1 King of the Kill`
