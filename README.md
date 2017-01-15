@@ -1,12 +1,17 @@
 # cjL's Game Settings
 
 ### Counter-Strike: Global Offensive [/csgo/](https://github.com/cjLGH/game-settings/tree/master/csgo)
+
+[**autoexec.cfg**](https://github.com/cjLGH/game-settings/blob/master/csgo/autoexec.cfg) > `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
+
 #### Launch Options
 	-novid -high -threads 4 -tickrate 128 -nojoy -nod3d9ex1 +exec autoexec.cfg
 
-**autoexec.cfg** > `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
 ### H1Z1: King of the Kill [/h1z1/](https://github.com/cjLGH/game-settings/tree/master/h1z1)
+
+[**UserOptions.ini**](https://github.com/cjLGH/game-settings/blob/master/h1z1/UserOptions.ini) > `...\Steam\steamapps\common\H1Z1 King of the Kill`
+
 #### Launch Options
 	none
 
@@ -29,4 +34,3 @@
 	Vertical sync: Off
 	Virtual Reality pre-rendered frames: 1
 
-**UserOptions.ini** > `...\Steam\steamapps\common\H1Z1 King of the Kill`
