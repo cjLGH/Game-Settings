@@ -1,5 +1,9 @@
 # cjL's Game Settings
 
+### Windows 10 Xbox DVR [/GameDVR.reg/](https://github.com/cjLGH/game-settings/tree/master/GameDVR.reg)
+	Running this registry file will disable Xbox DVR in Windows 10.
+	**Restart required**
+
 ### Counter-Strike: Global Offensive [/csgo/](https://github.com/cjLGH/game-settings/tree/master/csgo)
 
 [**autoexec.cfg**](https://github.com/cjLGH/game-settings/blob/master/csgo/autoexec.cfg) > `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
@@ -33,4 +37,3 @@
 	Triple buffering: Off
 	Vertical sync: Off
 	Virtual Reality pre-rendered frames: 1
-
