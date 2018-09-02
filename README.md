@@ -13,6 +13,7 @@
 #### NVIDIA Control Panel > Display > Adjust desktop size and position
 	Apply the following settings:
 		Scaling: Aspect ratio
+		Perform scaling on: GPU
 
 #### Resources
 * [Advanced CSGO tips, configs and more](https://www.reddit.com/r/GlobalOffensive/comments/5w3s53/advanced_csgo_tips_configs_and_more/) [Reddit]
