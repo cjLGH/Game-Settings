@@ -11,9 +11,9 @@
 	-novid -high -threads 4 -tickrate 128 -nojoy -nod3d9ex1 +exec autoexec.cfg
 
 #### NVIDIA Control Panel > Display > Adjust desktop size and position
-	1. Select the display you would like to change.
-	2. Apply the following settings:
-		* Scaling: Aspect ratio
+	Select the display you would like to change.
+	Apply the following settings:
+		Scaling: Aspect ratio
 
 #### Resources
 * [Advanced CSGO tips, configs and more](https://www.reddit.com/r/GlobalOffensive/comments/5w3s53/advanced_csgo_tips_configs_and_more/) [Reddit]
