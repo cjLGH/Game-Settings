@@ -11,7 +11,6 @@
 	-novid -high -threads 4 -tickrate 128 -nojoy -nod3d9ex1 +exec autoexec.cfg
 
 #### NVIDIA Control Panel > Display > Adjust desktop size and position
-	Select the display you would like to change.
 	Apply the following settings:
 		Scaling: Aspect ratio
 
