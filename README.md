@@ -16,7 +16,7 @@
 		* Scaling: Aspect ratio
 
 #### Resources
-	[Advanced CSGO tips, configs and more](https://www.reddit.com/r/GlobalOffensive/comments/5w3s53/advanced_csgo_tips_configs_and_more/)
+* [Advanced CSGO tips, configs and more](https://www.reddit.com/r/GlobalOffensive/comments/5w3s53/advanced_csgo_tips_configs_and_more/) [Reddit]
 
 ## Depreciated
 ~~### H1Z1: King of the Kill [/h1z1/](https://github.com/cjLGH/game-settings/tree/master/h1z1)
