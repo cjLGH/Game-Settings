@@ -7,18 +7,23 @@
 
 [**autoexec.cfg**](https://github.com/cjLGH/game-settings/blob/master/csgo/autoexec.cfg) > `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
-#### Launch Options
+#### Steam Launch Options
 	-novid -high -threads 4 -tickrate 128 -nojoy -nod3d9ex1 +exec autoexec.cfg
 
+#### NVIDIA Control Panel > Display > Adjust desktop size and position
+	1. Select the display you would like to change.
+	2. Apply the following settings:
+		* Scaling: Aspect ratio
 
-### H1Z1: King of the Kill [/h1z1/](https://github.com/cjLGH/game-settings/tree/master/h1z1)
+## Depreciated
+~~### H1Z1: King of the Kill [/h1z1/](https://github.com/cjLGH/game-settings/tree/master/h1z1)
 
-[**UserOptions.ini**](https://github.com/cjLGH/game-settings/blob/master/h1z1/UserOptions.ini) > `...\Steam\steamapps\common\H1Z1 King of the Kill`
+~~[**UserOptions.ini**](https://github.com/cjLGH/game-settings/blob/master/h1z1/UserOptions.ini) > `...\Steam\steamapps\common\H1Z1 King of the Kill`
 
-#### Launch Options
+~~#### Launch Options
 	none
 
-#### NVIDIA Control Panel > Manage 3D settings  (H1Z1: King of the Kill (h1z1 king of the kill/h1z1.exe)
+~~#### NVIDIA Control Panel > Manage 3D settings  (H1Z1: King of the Kill (h1z1 king of the kill/h1z1.exe)
 	Anisotropic filtering: Off
 	Antialiasing - FXAA: Off
 	Antialiasing - Gamma Correction: Off
