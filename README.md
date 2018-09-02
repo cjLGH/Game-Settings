@@ -11,9 +11,8 @@
 	-novid -high -threads 4 -tickrate 128 -nojoy -nod3d9ex1 +exec autoexec.cfg
 
 #### NVIDIA Control Panel > Display > Adjust desktop size and position
-	Apply the following settings:
-		Scaling: Aspect ratio
-		Perform scaling on: GPU
+	Scaling mode: Aspect ratio
+	Perform scaling on: GPU
 
 #### Resources
 * [Advanced CSGO tips, configs and more](https://www.reddit.com/r/GlobalOffensive/comments/5w3s53/advanced_csgo_tips_configs_and_more/) [Reddit]
