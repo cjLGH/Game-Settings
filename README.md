@@ -15,12 +15,15 @@
 	2. Apply the following settings:
 		* Scaling: Aspect ratio
 
+#### Resources
+	* https://www.reddit.com/r/GlobalOffensive/comments/5w3s53/advanced_csgo_tips_configs_and_more/
+
 ## Depreciated
 ~~### H1Z1: King of the Kill [/h1z1/](https://github.com/cjLGH/game-settings/tree/master/h1z1)
 
 ~~[**UserOptions.ini**](https://github.com/cjLGH/game-settings/blob/master/h1z1/UserOptions.ini) > `...\Steam\steamapps\common\H1Z1 King of the Kill`
 
-~~#### Launch Options
+~~#### Steam Launch Options
 	none
 
 ~~#### NVIDIA Control Panel > Manage 3D settings  (H1Z1: King of the Kill (h1z1 king of the kill/h1z1.exe)
