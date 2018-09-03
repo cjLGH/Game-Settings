@@ -14,6 +14,48 @@
 ---
 ### Rainbow Six Seige [/r6siege/](https://github.com/cjLGH/game-settings/tree/master/r6siege)
 [**GameSettings.ini**](https://github.com/cjLGH/game-settings/blob/master/r6siege/GameSettings.ini) > `...\Documents\My Games\Rainbow Six - Siege\uuid`
+#### Audio
+	Subtitle: Off
+	Master Volume: 74
+	Music Volume: 0
+	Voice Chat Record Threshold: 50
+#### Graphics
+	Overall Quality: Medium
+#### Controls
+##### General
+	Ping: Alt
+	Open Chat All: Y
+	Team Chat: U
+	Push to Talk: Q
+##### Character Controls
+	Move Forward: E
+	Move Backward: D
+	Strafe Left: S
+	Strafe Right: F
+	Lean Left: W
+	Lean Right: V
+	Sprint & Fast Rappel/Ladder Descent: Shift
+	Navigate: Space
+	Crouch & Change Rappel Stance: C
+	Prone: Z
+	Walk: Ctrl
+	Reload: R
+	Interact: T
+	Melee Attack: Mouse 4
+	Primary Gadget: Mouse 3
+	Secondary Gadget: G
+	Switch Firing Mode: B
+##### Observation Tool Controls
+	Move Forward: E
+	Move Backward: D
+	Strafe Left: S
+	Strafe Right: F
+	Enemy Scan: X
+	Cycle Left: W
+	Cycle Right: V
+##### Spectator Cameras
+	Browse Player Left: W
+	Browse Player Right: V
 #### Resources
 * [Rainbow Six Siege Audio, Graphics and Controls](https://imgur.com/a/KTayB1s) [imgur]
 ---
