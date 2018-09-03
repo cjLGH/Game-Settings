@@ -17,6 +17,13 @@
 #### Resources
 * [Advanced CSGO tips, configs and more](https://www.reddit.com/r/GlobalOffensive/comments/5w3s53/advanced_csgo_tips_configs_and_more/) [Reddit]
 
+### Rainbow Six Seige [/r6siege/](https://github.com/cjLGH/game-settings/tree/master/r6siege)
+
+[**GameSettings.ini**](https://github.com/cjLGH/game-settings/blob/master/r6siege/GameSettings.ini) > `...\Documents\My Games\Rainbow Six - Siege\uuid`
+
+#### Resources
+* [Rainbow Six Siege Audio, Graphics and Controls](https://imgur.com/a/KTayB1s) [imgur]
+
 ## Depreciated
 ~~### H1Z1: King of the Kill [/h1z1/](https://github.com/cjLGH/game-settings/tree/master/h1z1)
 
